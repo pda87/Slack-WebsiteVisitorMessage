@@ -1,4 +1,4 @@
-# WebsiteVisitorSlackMessage
+# Slack-WebsiteVisitorMessage
 
 A JavaScript Ajax request embedded in a HTML file which calls a PHP script when the web page is served. This sends the message<BR>
 
